@@ -101,7 +101,7 @@ The ROC Curve illustrates the model's ability to distinguish between customers w
 The feature importance plot displays the contribution of each feature to the Logistic Regression model.
 
 <p align="center">
-  <img src="image/feature_importance.png" width="700">
+  <img src="image/features_importance.png" width="700">
 </p>
 
 ---
