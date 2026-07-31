@@ -81,7 +81,7 @@ Although the model achieved moderate accuracy, this project focuses on understan
 The confusion matrix shows the number of correct and incorrect predictions made by the model.
 
 <p align="center">
-  <img src="images/confusion_matrix.png" width="500">
+  <img src="image/confusion_matrix.png" width="500">
 </p>
 
 ---
@@ -91,7 +91,7 @@ The confusion matrix shows the number of correct and incorrect predictions made 
 The ROC Curve illustrates the model's ability to distinguish between customers who are likely and unlikely to repay their loans.
 
 <p align="center">
-  <img src="images/roc_curve.png" width="500">
+  <img src="image/roc_curve.png" width="500">
 </p>
 
 ---
@@ -101,7 +101,7 @@ The ROC Curve illustrates the model's ability to distinguish between customers w
 The feature importance plot displays the contribution of each feature to the Logistic Regression model.
 
 <p align="center">
-  <img src="images/feature_importance.png" width="700">
+  <img src="image/feature_importance.png" width="700">
 </p>
 
 ---
